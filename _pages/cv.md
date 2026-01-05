@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 10/2018 - 07/2022 &nbsp; Ph.D. Computational Geodynamics at University of Mainz, Germany
+* 10/2015 - 04/2018 &nbsp; M.Sc. Geoscience at University of Mainz, Germany
+* 10/2012 - 03/2016 &nbsp; B.Sc. Geosceince at University of Mainz, Germany
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2025 - 10/2025 &nbsp; 3-week research stay at ETH Zürich, Switzerland
+  * Code development
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2022 - present &nbsp; Postdoctoral Researcher at University of Bayreuth, Germany
+  * Code development and execution
+  * Thermal runaway as a driver of deep earthquakes
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2022 - 09/2022 &nbsp; Postdoctoral Researcher at University of Mainz, Germany
+  * Geodynamic models of magmatic intrusion
+
+* 04/2018 - 09/2018 &nbsp; Research Assistant at University of Mainz, Germany
+  * Geodynamic models of folding
   
 Skills
 ======

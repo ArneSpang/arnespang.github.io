@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US" # air seems good, sunrise not, mint is better but worse than air, need to see difference between default and air again
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+locale                   : "en-US" # air seems good, sunrise not, mint is better but worse than air, dirt is not good, need to see difference between default and air again
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Arne Spang"
 title_separator          : "-"
 name                     : &name "Arne Spang"
