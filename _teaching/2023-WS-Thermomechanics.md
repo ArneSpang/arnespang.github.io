@@ -9,12 +9,3 @@ location: "Bayreuth, Germany"
 ---
 
 This was a voluntary class for two PhD students and a few Master students which I intitiated. It included lectures on the blackboard about numerical modeling, continuum mechanics, and coding exercises for thermal diffusion and rheology in Julia.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
