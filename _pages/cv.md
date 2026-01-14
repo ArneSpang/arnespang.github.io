@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](https://github.com/ArneSpang/arnespang.github.io/blob/master/images/profile.png).
+Download my full CV [here](/images/profile.png).
 
 Education
 ======
