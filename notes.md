@@ -1,1 +1,0 @@
-Combine multiple of teaching classes into one

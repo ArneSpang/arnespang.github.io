@@ -1,5 +1,5 @@
 ---
-title: "Applied Geophysics 2017"
+title: "Applied Geophysics 2017 and 2018"
 collection: teaching
 type: "Student assistant"
 permalink: /teaching/2017-SS-Geophysics
