@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Arne"
+title: "Arne Spang"
 author_profile: true
 redirect_from: 
   - /about/
