@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arne Spang"
+title: "Hi, I am Arne"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,5 +15,3 @@ I am a geoscientist with a strong focus on computational thermomechanics. With m
 - Testing parameter sensitvity and deriving scaling laws from a large suite of models
 - Inverting geophysical observations such as seismic imaging, gravity, and ground deformation to constrain subsurface processes and material parameters
 - Investigating the mechanical viability of theorized processes
-
-I am still building this page. There will be more content soon. One day, I promise...
