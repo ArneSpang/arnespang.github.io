@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](/assets/CV_2026_05.pdf).
+Download my full CV [here](/assets/CV_2026_07.pdf).
 
 Education
 ======
@@ -57,7 +57,7 @@ Supervision
   * “Experimental investigation of Antigorite dehydration reactions under deformation”
   * Mentor
 * Hao Liu, PhD thesis
-  * 10/2023 - present
+  * 10/2023 - 05/2026
   * “Geodynamic modelling of the Changbai magmatic system”
   * External advisor
 * Muhammad Ilham Hamadi, Master thesis
