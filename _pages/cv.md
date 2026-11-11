@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](/assets/CV_2026_09.pdf).
+Download my full CV [here](/assets/CV_2026_11.pdf).
 
 Education
 ======
@@ -19,13 +19,6 @@ Education
 
 Work experience
 ======
-* 08/2026 - 09/2026 &nbsp; &nbsp; 3-week research stay at ETH Zürich, Switzerland
-  * Code development (performance, type stability)
-  * Learning JustRelax.jl and application to magmatic systems
-
-* 09/2025 - 10/2025 &nbsp; &nbsp; 3-week research stay at ETH Zürich, Switzerland
-  * Code development (advection schemes)
-
 * 10/2022 - present &nbsp; &nbsp; Postdoctoral Researcher at University of Bayreuth, Germany
   * Code development and execution
   * Thermal runaway as a driver of deep earthquakes
@@ -49,6 +42,15 @@ Work experience
 * 04/2012 - 09/2013 &nbsp; &nbsp; Rubel & Partner, Wörrstadt, Germany
   * Geotechnical field work
   * Internship and minor job later on
+
+Other scientific activity
+======
+* 08/2026 - 09/2026 &nbsp; &nbsp; 3-week research stay at ETH Zürich, Switzerland
+  * Code development (performance, type stability)
+  * Learning JustRelax.jl and application to magmatic systems
+
+* 09/2025 - 10/2025 &nbsp; &nbsp; 3-week research stay at ETH Zürich, Switzerland
+  * Code development (advection schemes)
 
 Supervision
 ======
